@@ -1,0 +1,6 @@
+config.json
+pos.json
+trans.json
+package-lock.json
+*.lock
+/node_modules/
